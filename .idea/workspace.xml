@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae7ef4e5-4efd-446c-90ad-d4b38435172f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/ev&amp;odbrut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/ev&amp;odrecur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/ev&amp;odtrn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/po &amp; neg bru.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/po&amp;ne if ladder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/po&amp;netrnary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumfirnatrecur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumfirsnat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumfirsnatform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumnnat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumnnatform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumnnatrecur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumrangeform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sumrangerecur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+    <list default="true" id="ae7ef4e5-4efd-446c-90ad-d4b38435172f" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/python/greatof 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/greatof2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/prime .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/primerange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +39,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.sumrangerecur">
-    <configuration name="sumnnatform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.primerange">
+    <configuration name="greatof 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sumnnatform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/greatof 3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sumnnatrecur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="greatof2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sumnnatrecur.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/greatof2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sumrange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leapyear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sumrange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/leapyear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sumrangeform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prime " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sumrangeform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/prime .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sumrangerecur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="primerange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sumrangerecur.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/primerange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sumrangerecur" />
-        <item itemvalue="Python.sumrangeform" />
-        <item itemvalue="Python.sumrange" />
-        <item itemvalue="Python.sumnnatrecur" />
-        <item itemvalue="Python.sumnnatform" />
+        <item itemvalue="Python.primerange" />
+        <item itemvalue="Python.prime " />
+        <item itemvalue="Python.leapyear" />
+        <item itemvalue="Python.greatof 3" />
+        <item itemvalue="Python.greatof2" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +164,14 @@
       <option name="presentableId" value="Default" />
       <updated>1687365974263</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1687455144775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687455144775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,5 +184,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
